@@ -20,3 +20,9 @@ S'il y a des problèmes à cause de la taille du fichier, vous pouvez mettre un 
 - **Recherche boursier** : Cette requète recherche un beneficiaire
 - **Modifie boursier** : Cette requete altère les information personnelles d'un boursier
 - **Afficher par** : Cette requète affiche les boursier selon un ordre précis.
+
+# Python librairy
+- psycopg2
+**Source:** [PostgreSQL Python](https://www.postgresqltutorial.com/postgresql-python/).
+
+# PostgreSQL
