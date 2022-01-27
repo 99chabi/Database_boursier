@@ -23,6 +23,7 @@ S'il y a des problèmes à cause de la taille du fichier, vous pouvez mettre un 
 
 # Python librairy
 - psycopg2
+<br>
 **Source:** [PostgreSQL Python](https://www.postgresqltutorial.com/postgresql-python/).
 
 # PostgreSQL
