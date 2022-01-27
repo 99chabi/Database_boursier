@@ -1,11 +1,12 @@
 # Database_boursier
 Les différents livrables sont :
-- Description fonctionnelle,
-- Dictionnaire de données,
+- Description fonctionnelle, ... done
+- Dictionnaire de données, ... done
 - Modèle EA,... done
 - Modèle Relationnel, ... done
-- Fichier SQL pour la création de la BD,... done (we need a single file there)
-- Requêtes SQL nécessaires pour votre projet (Exemple : Ajout personne, ajout commande, suppression, etc.)
+- Fichier SQL pour la création de la BD,... in progress
+- Requêtes SQL nécessaires pour votre projet (Exemple : Ajout personne, ajout commande, suppression, etc.) ... in progress
+- Script pour intégrer les requêtes au projet.
 - Exploitation des requêtes dans un code Java, python, php ou autres.
 - Démo Vidéo. 
 
@@ -28,4 +29,4 @@ S'il y a des problèmes à cause de la taille du fichier, vous pouvez mettre un 
 
 **Source:** [PostgreSQL Python](https://www.postgresqltutorial.com/postgresql-python/).
 
-# PostgreSQL
+# P
