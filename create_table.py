@@ -9,7 +9,7 @@ import sys
 
 from connect import config
 
-woring_directory = "/home/e4g13/Documents/ECC/2A/S7-2021/Base_de_données/Divers/python_postgres/tables/" # Provide the working directory with all the project files.
+woring_directory = "~/Database_boursier/tables/" # Provide the working directory with all the project files.
 
 def create_tables(directory):
     """ create tables in the PostgreSQL database from the directory containing all the SQL files """    
@@ -22,6 +22,7 @@ def create_tables(directory):
         conn = psycopg2.connect(**params)
         cur = conn.cursor()
         
+        # From here we read the scripts in the woring directory
         for files in os.listdir(directory):
             if files != "boursier.sql":
                 print("Processing %s " % files)
